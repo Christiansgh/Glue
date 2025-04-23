@@ -1,4 +1,4 @@
-namespace Glue.Constants;
+namespace Glue.Core.Constants;
 
 public static class AnsiiColors {
     public enum Colors {
